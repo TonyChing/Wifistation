@@ -1,2 +1,2 @@
-# 跨校合作无人机
+ Wifistation based on arduino.
  Have Fun!
